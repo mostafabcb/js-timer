@@ -1,6 +1,6 @@
 // Icon size configuration - Edit these values to change individual icon sizes
 const iconSizes = {
-    release: { width: '32px', height: '32px' },
+    release: { width: '320px', height: '32px' },
     os: { width: '38px', height: '38px' },
     display: { width: '32px', height: '32px' },
     camera: { width: '28px', height: '28px' },
