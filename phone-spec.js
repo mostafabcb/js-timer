@@ -47,7 +47,7 @@ const specIcons = {
 document.addEventListener('DOMContentLoaded', function() {
     const styles = {
         phoneSpecs: {
-            lineHeight: '1.5',
+            lineHeight: '1.1',
             maxWidth: '600px',
             margin: '0 auto',
             padding: '15px',
