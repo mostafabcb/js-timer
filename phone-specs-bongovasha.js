@@ -85,6 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         specValue: {
             color: colors.valueColor,
+            margin-top: -15px,
             fontSize: fontSizes.value
         },
         priceOptions: {
